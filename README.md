@@ -18,10 +18,10 @@ $ open https://help.github.com/articles/creating-releases/
 
 Подготовка к работе
 ```sh
-$ git clone https://github.com/IvanGalk1n/lab08 lab09 #клонируем репозиторий
+$ git clone https://github.com/lab08 lab09 #клонируем репозиторий
 $ cd lab09/
 $ git remote remove origin
-$ git remote add origin https://github.com/IvanGalk1n/lab09 #настраиваем удаленный репозиторий
+$ git remote add origin https://github.com/lab09 #настраиваем удаленный репозиторий
 ```
 
 Создаем ключ шифрования
